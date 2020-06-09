@@ -16,4 +16,4 @@ end
 
 def using_delete(array, string)
     array.delete("x"){string}
-end 
+end
